@@ -3,6 +3,9 @@ Home-sweet-home board game elements
 
 Home-sweet-home est un jeu de plateau créé lors de la [Jam des Volcans](http://jam-des-volcans.fr/) 2019. Il s'agit, dans le thème de l'édition qui était le foyer, de construire sa maison. Le jeux est collaboratif et le but est de construire ensemble la plus belle maison possible.
 
+## Présentation vidéo
+Consultez la présentation video sur [Youtube](https://youtu.be/huDcz0PK1o8)
+
 ## But du jeu
 Vous avez décidé d’emménager tous ensemble. Vous devez construire la maison de vos rêves en mettant en commun vos ressources et  vos réflexions afin de construire votre future chez vous. Plus votre maison sera belle et confortable, plus vous serez méritant et heureux chez vous. 
 
